@@ -1,3 +1,40 @@
 body {
   font-family: Helvetica, sans-serif;
+  margin: 0 40px 0 40px;
+}
+
+.heading {
+  font-size: 70px;
+  background-image: url("/Resources/Images/pattern.jpeg");
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+#heading1 {
+  background-color: mediumspringgreen;
+}
+
+#heading2 {
+  background-color: lightcoral;
+}
+
+#heading3 {
+  background-color: skyblue;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  padding-left: 10px;
+}
+
+.price {
+  color: blue;
+  font-weight: bold;
+}
+
+.container {
+  padding: 20px;
 }
